@@ -49,7 +49,7 @@ export default function Home() {
 
                 {/* Stripe Payment Button */}
                 <a
-                    href="YOUR_STRIPE_PAYMENT_LINK"
+                    href="https://buy.stripe.com/bIY2bO0kO7L9gpiaEF"
                     target="_blank"
                     className="mt-6 inline-block bg-blue-500 text-white px-6 py-3 rounded-lg text-lg font-semibold shadow-md hover:bg-blue-600 transition w-full md:w-auto"
                 >
