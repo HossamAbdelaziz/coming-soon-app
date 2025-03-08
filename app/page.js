@@ -24,13 +24,7 @@ export default function Home() {
 
                 {/* Animated Typing Effect for Coming Soon */}
                 <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mt-4 font-handwriting">
-                    <Typewriter
-                        options={{
-                            strings: ["Coming Soon..."],
-                            autoStart: true,
-                            loop: true,
-                        }}
-                    />
+                    {displayedText}
                 </h1>
 
                 {/* Short Program Description - Responsive Text */}
